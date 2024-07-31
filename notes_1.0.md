@@ -125,7 +125,7 @@ https://onlinelibrary.wiley.com/doi/epdf/10.1002/mrm.1910390107
 • Metabolic homotopy: inter and intra cluster segementation:
 - automorpgic equivalence AE: clusters are maximally non-AE, intracluster nodes are
 maximally AE.
-WM maturation, reference for WM segementation , frontal lobe gradient:
-https://pubmed.ncbi.nlm.nih.gov/29305910/
-https://pubmed.ncbi.nlm.nih.gov/18295509/
+- WM maturation, reference for WM segementation , frontal lobe gradient:
+  - https://pubmed.ncbi.nlm.nih.gov/29305910/
+  - https://pubmed.ncbi.nlm.nih.gov/18295509/
 

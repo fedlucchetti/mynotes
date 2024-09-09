@@ -1,0 +1,16 @@
+# CPC 2024 Course Notes
+
+## Monday Sept 9:
+
+- Forward model <-> Inverse model
+  - p(y,x,m))p(x,m) : forward model, generative model
+  - p(x|y,m): perception or inverse model of a generative model
+  - example hierarchical gaussian filter (HGF)
+- "Two cultures of Comnoputational Psychiatry" Bennett et al. 2019, JAMA Pys
+  - explanation: 
+  - ML
+  - generative embedding: mixes both above
+- inferring synpatic processes:
+  - compute neuronal currents: infer EEG and pinpioint deficient neurotransmitter recceptors
+  - Useful for clinicians because we have drungs for different receptors
+  - e,g, NMDA receptor antibody encephalitis: Brain on Fire (Movie, Book)

@@ -56,4 +56,12 @@
   - see figure
 - Lost years by Bas Labruyere
 - "When the world becomes ‘too real’: a Bayesian explanation of autistic perception"
-"https://www.sciencedirect.com/science/article/pii/S1364661312002008"
+  - [REF] (https://www.sciencedirect.com/science/article/pii/S1364661312002008)
+
+### Depression
+- depression <-> mania, normal is inbetween these two extremes
+- myths about depression
+- winston churchil and the black dog
+- 
+
+https://discord.gg/fTwHcs68hq

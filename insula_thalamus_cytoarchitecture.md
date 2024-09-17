@@ -1,5 +1,10 @@
 # Cytoarchitectonic Parcellation of the Insula and Cortex
 
+
+## Reference
+- [link](https://pubmed.ncbi.nlm.nih.gov/821974/)
+-  Areal differences in the laminar distribution of thalamic afferents in cortical fields of the insular, parietal and temporal regions of primates 
+
 This document summarizes the findings of a study investigating the cytoarchitectonic organization and thalamo-cortical connectivity of the insula and adjacent cortical areas (temporal and parietal lobes) in rhesus and squirrel monkeys. The study uses cytoarchitectonic mapping and autoradiographic tracing to analyze how thalamic afferent fibers distribute within these cortical regions.
 
 ## Key Findings

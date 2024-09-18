@@ -13,6 +13,7 @@ streamline number is above 10e6
 (philía) 'friendship, love') is a concept in sociology describing the tendency of
 individuals to associate and bond with similar others, as in the proverb "birds
 of a feather flock together".[1]
+  - Birds of a feather: Homophily in social networks
 
 # 06-05-2024
 • Tractography Fail: S006-V1 S058-V2
@@ -128,4 +129,40 @@ maximally AE.
 - WM maturation, reference for WM segementation , frontal lobe gradient:
   - https://pubmed.ncbi.nlm.nih.gov/29305910/
   - https://pubmed.ncbi.nlm.nih.gov/18295509/
+
+# 13/26/24
+## Metabolic Homeostasis:
+- "Neurometabolite levels in the brains of patients with autism spectrum disorders: A meta-analysis of proton magnetic resonance spectroscopy studies." This study highlights changes in neurometabolites, including NAA and Glx, in autism spectrum disorders, using proton magnetic resonance spectroscopy (MRS) (Molecular Psychiatry, 2023)​(Nature
+).
+
+- "Association Between Serum Neurofilament Light Chain and Neurochemistry Deficits in Patients with Spinocerebellar Ataxia Type 3." This study discusses neurochemical deficits, including altered levels of NAA and Glx, linked with spinocerebellar ataxia, providing insights into the neurochemical profiles of this condition (The Cerebellum, 2023)​(SpringerLink
+).
+
+- "Age-related Brain Metabolic Changes up to Seventh Decade in Normal Aging: A Study with Proton Magnetic Resonance Spectroscopy." This research investigates how aging affects brain metabolites, including NAA, Cho, and Cr, and emphasizes the importance of these metabolites in identifying pathological changes (Springer, 2023)​(Nature
+).
+- "Variability, compensation and homeostasis in neuron and network function"
+from [Changes in neuronal connectivity necessitate homeostatic mechanisms to ensure functional stability.] read in [ Complex brain networks: graph theoretical analysis of structural and functional systems ]
+- Metastable dynamics
+  - Transitions between marginally stable network states; these transitions can occur spontaneously or as a result of weak external perturbations.
+  - "Metastability of Active CA3 Networks"
+- Conservation of network proerties:
+  - Conservation of functional network properties
+  - Check out [ Complex brain networks: graph theoretical analysis of structural and functional systems ] (https://www.sciencedirect.com/science/article/pii/S2950347724000343)
+
+- Feature Review Toward computational neuroconstructivism: a framework for developmental systems neuroscience: 
+  - READ MF: INTERESTING
+  - Modelling phenotypic variation in developmental outcomes in silico.
+  - A comoutational network model should be restrained by biophysical properties such as distance,genomics and cytoarchitecture:
+
+
+## CTRL vs SCHIZOPHRENIA
+-  "The economy of brain network organization "
+  - Check Figure 4b: Connection densities vs Distance
+  - fMRI networks in patients with schizophrenia contain proportionally more long-distance connections than fMRI networks in healthy controls (left panel), perhaps owing to excessive developmental pruning of shorter-distance connections. Accordingly, inter-modular connector hubs that have a large number of long- distance connections (indicated by areas with high connection distance in the right panel) are more extensive in functional brain networks of people with schizophrenia than in healthy volunteers46. 
+  - [https://www.nature.com/articles/nrn2575#Sec1](https://www.nature.com/articles/nrn2575#Sec1)
+    - Application of Conectomics to psy diseases
+
+  
+
+
 

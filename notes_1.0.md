@@ -161,7 +161,9 @@ from [Changes in neuronal connectivity necessitate homeostatic mechanisms to ens
   - fMRI networks in patients with schizophrenia contain proportionally more long-distance connections than fMRI networks in healthy controls (left panel), perhaps owing to excessive developmental pruning of shorter-distance connections. Accordingly, inter-modular connector hubs that have a large number of long- distance connections (indicated by areas with high connection distance in the right panel) are more extensive in functional brain networks of people with schizophrenia than in healthy volunteers46. 
   - [https://www.nature.com/articles/nrn2575#Sec1](https://www.nature.com/articles/nrn2575#Sec1)
     - Application of Conectomics to psy diseases
-
+## Metabolic change in networks:
+" We thus reasoned, based on the biochemistry paradigm of feedback regulation, that the metabolites could be part of a biochemical network of interconnecting pathways where the changes of a set of metabolites could influence another set of metabolites. In theory, the metabolites in a biochemical network are connected with each other; a change in one metabolite can influence a metabolite from a different pathway, thus creating a dense network."
+--> Metabolomics of mammalian brain reveals regional differences
   
 
 

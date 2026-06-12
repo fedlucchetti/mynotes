@@ -2,7 +2,7 @@
 
 ## 1. Weighting Results
 
-The optimal linear combination of MRSI-derived metabolite maps that maximized alignment with the mitochondrial reference yielded the following weights:
+The optimal linear combination of MRSI-derived metabolite maps that maximized alignment with the mitochondrial reference yielded the following weights: ($r=0.44$ $p=0.000001$)
 
 | Metabolite | Weight |
 |-----------|--------|
@@ -68,7 +68,6 @@ NAAG, myo-inositol (Ins), and glutathione (GSH) exhibited near-zero weights, ind
 ---
 
 ## 6. Conceptual Summary
-
 These results indicate that mitochondrial spatial organization in the brain is best captured by a metabolic mode dominated by **glutamatergic oxidative demand and membrane maintenance**, while subtracting **nonspecific energy buffering and inhibitory pool storage**. Rather than reflecting mitochondrial density per se, this axis represents the **deployment of mitochondrial support required to sustain excitatory neurotransmission and neuron–astrocyte metabolic coupling**.
 
 ---
